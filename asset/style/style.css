@@ -5,6 +5,12 @@ body {
   font-family: poppins, Helvetica, sans-serif;
   line-height: 1.65em;
 }
+.header-foto img {
+  max-width: 100%;
+  background-color: #fff;
+  border: 3px solid #fff;
+  border-radius: 300px;
+}
 header {
   float: left;
   width: 100%;
